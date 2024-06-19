@@ -1,0 +1,8 @@
+{
+    "name": "Fields translator",
+    "description": "Translate fields in Anki notes using DeepL API",
+    "author": "Yurii-Stefan Zhydetskyi",
+    "version": "1.0.0",
+    "conflicts": [],
+    "max_point_version": 40
+}
